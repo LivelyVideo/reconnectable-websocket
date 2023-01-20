@@ -1,6 +1,6 @@
 {
-  "name": "@livelyvideo/reconnectable-websocket",
-  "version": "0.0.2",
+  "name": "@video/reconnectable-websocket",
+  "version": "1.0.0",
   "description": "Reconnectable websocket",
   "main": "lib/index.js",
   "scripts": {
@@ -10,11 +10,9 @@
     "lint": "standard | snazzy",
     "test": "npm run babel && npm run lint"
   },
-  "repository": "LivelyVideo/reconnectable-websocket",
   "keywords": [
     "websocket"
   ],
-  "author": "LivelyVideo",
   "license": "MIT",
   "dependencies": {
     "babel-runtime": "^6.3.19"
